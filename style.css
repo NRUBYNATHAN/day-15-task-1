@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+.total{
+    background-color: antiquewhite;
+    padding-left: 300px;
+    padding-top:60px;
+    border: 3px solid red;
+    width:750px;
+    height:700px;
+    justify-content: center;
+    margin-left: 250px;
+}
+th,td{
+    border: 2px solid red;
+}
